@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+}
+.root{
+    flex-grow: 1,
+  }
+.menuButton{
+    margin-right:100px;
+  }
+.title{
+    flex-grow: 1,
+  }
+.button-menu{
+    position: absolute;
+    right: 0px;
+}
+.user-item{
+    background-color: grey;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    left: 35%;
+}
+.user-item-list{
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
+.menu-item{
+  color: white;
+}
+.button-menu .button{
+  text-decoration:none;
+}
+Button.button1{
+  position: relative;
+  left:-200px;
+}
+Button.button2{
+  position: relative;
+  left:-150px;
+}
+Button.button3{
+  position: relative;
+  left:-100px;
+}
+Button.button4{
+  position: relative;
+  left:-50px;
+}
